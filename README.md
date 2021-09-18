@@ -3,9 +3,13 @@
 I have used Appium and WinAppDrive to automate windows application
 
 IDE : Eclipse
+
 Programming Language : Java
+
 Automation Library : Java Client - Appium
+
 Automation Tool : WinAppDriver
+
 Testing Framwork : TestNG
 
 Download WinAppDriver from below link : 
