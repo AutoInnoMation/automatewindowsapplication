@@ -15,6 +15,7 @@ Try to download install x86 version
 
 Download Windows SDK:
 https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk/
+
 Path for inspect tool :
 C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x64
 
